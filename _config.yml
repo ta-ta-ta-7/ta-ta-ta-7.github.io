@@ -79,7 +79,7 @@ content:
           - Created many 3d animations for awards and videos
           - Earned the Chairman's award for amount and quality of volunteering work done by the team
           - Worked with the RedStorm Robotics team to coordinate volunteering opportunities
-          - Reached out to Sponsors
+          - Reached out to Sponsors and formed connections with many major manufactoring companies
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -101,8 +101,8 @@ content:
     content:
       - layout: left
         title: 3d modeling and animation
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        #caption: 2010 - 2013
+        #sub_title: BSc Computer Science
   #      quote: >
   #        Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
