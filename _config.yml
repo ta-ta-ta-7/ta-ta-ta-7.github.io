@@ -85,9 +85,9 @@ content:
     content:
       - layout: left
         title: Wash World Laundromat
-        link: boringcompany.com
+        #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        #sub_title: Senior Network System Administrator
         caption: May 2015 - Present
         #quote: >
         #  #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
